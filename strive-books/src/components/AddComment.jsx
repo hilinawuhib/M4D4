@@ -21,7 +21,7 @@ class AddComment extends Component {
           headers: {
             "Content-type": "application/json",
             Authorization:
-              "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTgyOGYxYWFhY2FhMjAwMTU1MmExN2UiLCJpYXQiOjE2Mzk2NTk1NzAsImV4cCI6MTY0MDg2OTE3MH0.UjB_Dd7p-bnuOhiDdn1CW5UH8EGbn-dyKsx4NEpVzcE",
+              "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTgyOGYxYWFhY2FhMjAwMTU1MmExN2UiLCJpYXQiOjE2NDE4MTgyNjUsImV4cCI6MTY0MzAyNzg2NX0.vjL4QBX-qneCjdPzpal2YXHjqtrPEPF9ba7EzWvtep0",
           },
         }
       );
